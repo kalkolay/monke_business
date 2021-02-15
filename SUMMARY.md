@@ -12,7 +12,6 @@
 * [Управление предприятием](discipliny/upravlenie-predpriyatiem.md)
 * [Управление требованиями](discipliny/upravlenie-trebovaniyami.md)
 * [Электротехника и электроника](discipliny/elektrotekhnika-i-elektronika.md)
-* [Физическая культура](discipliny/fizicheskaya-kultura.md)
 
 ---
 
