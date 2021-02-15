@@ -2,9 +2,13 @@
 
 _Преподаватель:_  [Штумпф Святослав Алексеевич](https://isu.ifmo.ru/pls/apex/f?p=2143:PERSON:102454411610298::NO:RP:PID:112838)
 
-[Ссылка на лекции/практики](https://itmo.zoom.us/j/9984044733)
+[Ссылка на лекции/практики](https://itmo.zoom.us/j/9984044733)  
+  
+[Материалы курса](https://drive.google.com/drive/folders/1x9tUIW4bu2qH02OI32IJSw8OqK3_a8Bk?usp=sharing)  
+  
+[Критерии оценки](https://docs.google.com/spreadsheets/d/1cZ1bT__MDnpYTgCYr3e180TQCJ17AhGBBAxE0aOx5Qk/edit#gid=528067252)
 
-Список команд-пар:
+**Список команд-пар:**
 
 1. Кукулиди - Федотенко
 2. Микаилов - Мамедов

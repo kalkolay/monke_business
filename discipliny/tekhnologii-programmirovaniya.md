@@ -4,7 +4,7 @@
 
 _Преподаватель:_  Собенников Виктор Леонидович  
   
-[Ссылка на лекцию](https://itmo.zoom.us/j/6550831799)  
+[Ссылка на лекцию](https://dell.zoom.us/j/91420697445?pwd=ODVURnFxSnROMnJPMkE3Rm1EZUxYQT09)  
   
   
   
