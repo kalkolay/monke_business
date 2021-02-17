@@ -16,3 +16,11 @@ _Преподаватель:_  [Саравайский Михаил Алекса
 
 [Ссылка на практику](https://dell.zoom.us/j/95771512486?pwd=aDh1MlM5bVpEN1VUaVFlVFJ6SU1nZz09)
 
+{% file src="../.gitbook/assets/1-1-.doc" caption="Лаба 1" %}
+
+{% file src="../.gitbook/assets/2.doc" caption="Лаба 2" %}
+
+
+
+
+

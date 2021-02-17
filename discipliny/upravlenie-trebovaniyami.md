@@ -6,7 +6,9 @@ _Преподаватель:_  [Штумпф Святослав Алексеев
   
 [Материалы курса](https://drive.google.com/drive/folders/1x9tUIW4bu2qH02OI32IJSw8OqK3_a8Bk?usp=sharing)  
   
-[Критерии оценки](https://docs.google.com/spreadsheets/d/1cZ1bT__MDnpYTgCYr3e180TQCJ17AhGBBAxE0aOx5Qk/edit#gid=528067252)
+[Критерии оценки](https://docs.google.com/spreadsheets/d/1cZ1bT__MDnpYTgCYr3e180TQCJ17AhGBBAxE0aOx5Qk/edit#gid=528067252)  
+  
+[Гугл диск для проектов](https://drive.google.com/drive/folders/1OhV5wCftzFmxZo0VxymBmRIXTol3JEuV?usp=sharing)
 
 **Список команд-пар:**
 
