@@ -4,3 +4,11 @@
 
 [Ссылка на онлайн курс](https://openedu.ru/course/ITMOUniversity/LINCIR/)
 
+![](../.gitbook/assets/image%20%281%29.png)
+
+![](../.gitbook/assets/image%20%282%29.png)
+
+{% file src="../.gitbook/assets/00\_var\_dz.pdf" caption="Дз\(1-2\)" %}
+
+
+
