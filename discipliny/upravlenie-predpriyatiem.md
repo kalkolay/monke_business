@@ -6,16 +6,13 @@ _Преподаватель:_  [Ветрова Елена Николаевна](
 
 
 
-## ДЗ:
+## ДЗ:  [Гугл диск для домашек ](https://drive.google.com/drive/folders/1-s3Q8aIGt6Lrvd_sbU49KN4i7CmRi-HD?usp=sharing)
 
-Нужно заполнить таблицу  
-Дедлайн - до 17 февраля  
-  
-[Гугл диск для домашек ](https://drive.google.com/drive/folders/1-s3Q8aIGt6Lrvd_sbU49KN4i7CmRi-HD?usp=sharing)
+{% file src="../.gitbook/assets/tema-2-predpriyatie-v-usloviyakh-rynka.pptx" caption="Презентация для дз" %}
 
-{% file src="../.gitbook/assets/dz.xlsx" %}
 
-![](../.gitbook/assets/image.png)
+
+![](../.gitbook/assets/image%20%285%29.png)
 
 
 
