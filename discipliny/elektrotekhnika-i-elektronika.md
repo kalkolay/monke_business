@@ -6,6 +6,8 @@
 
 [Ссылка на онлайн курс](https://openedu.ru/course/ITMOUniversity/LINCIR/)
 
+[ГуглДиск со всеми файлами](https://drive.google.com/drive/folders/1DJdDWLGElDUC8LMjO3_ySDcihzERrwVy?usp=sharing)
+
 ![](../.gitbook/assets/image%20%281%29.png)
 
 ![](../.gitbook/assets/image%20%282%29.png)
