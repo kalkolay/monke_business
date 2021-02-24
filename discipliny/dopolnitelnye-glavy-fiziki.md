@@ -10,7 +10,9 @@ _Преподаватель:_  [Ефремова Екатерина Алекса
 
 _Преподаватель:_  [Егоров Михаил Юрьевич](https://isu.ifmo.ru/pls/apex/f?p=2143:PERSON:107330050091725::NO:RP:PID:270347)
 
-_Skype:_ **mikhail.yu.egorov**
+_Skype:_ **mikhail.yu.egorov**  
+  
+_Почта:_  **mikhail.yu.egorov@gmail.com**
 
 ## Лабы
 
