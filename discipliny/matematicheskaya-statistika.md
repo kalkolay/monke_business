@@ -12,5 +12,7 @@ _Преподаватель:_  [Милованович Екатерина Вои
   
 [Типовик](https://drive.google.com/drive/folders/1L_wL7ekXpYkiEpNjtRFRp9TZlOTum6Be)
 
+{% file src="../.gitbook/assets/zadachi\_na\_klassicheskoe\_opredelenie\_i\_teoremy\_slozhenia\_i\_umnozhenia.docx" caption="Дз чисто для тренировки" %}
+
 
 
