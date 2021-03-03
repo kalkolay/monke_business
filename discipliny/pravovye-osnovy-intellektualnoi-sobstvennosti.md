@@ -6,3 +6,7 @@ _Преподаватель:_  [**Пешков Андрей Иванович**](
 
 ## ДЗ
 
+Подготовить пакет документов на гос регистрацию программ для ЭВМ или базы данных.
+
+[**Ссылка на сайт с документами**](https://www1.fips.ru/documents/npa-rf/prikazy-minekonomrazvitiya-rf/prikaz-ministerstva-ekonomicheskogo-razvitiya-rf-ot-5-aprelya-2016-g-211.php#I)
+
