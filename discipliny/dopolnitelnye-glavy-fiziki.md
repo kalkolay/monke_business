@@ -20,5 +20,6 @@ _Почта:_  **mikhail.yu.egorov@gmail.com**
 
 ![](../.gitbook/assets/image%20%286%29.png)
 
+![](../.gitbook/assets/image.png)
 
 
